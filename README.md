@@ -1,6 +1,6 @@
 # Harlowe-Template
 This template contains my style overrides for Harlowe, the default Twine story format. It features:
-* EB Garamond font
+* Libre Baskerville font
 * Line lenght limit for wide screens
 * Light & dark theme that follows computer setting
 * Sidebar moves to bottom on small screens
